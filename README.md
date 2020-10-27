@@ -1,0 +1,1 @@
+# canvas-photobooth-js
